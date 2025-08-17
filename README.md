@@ -1,7 +1,12 @@
-# A-Level Computer Science Projects
+# Simple Python Mini Projects 🐍
 
-This repository contains all my practice and coursework projects for A-Level Computer Science.
+This repository contains small Python projects I’ve built to practice and improve my programming skills.
 
-## Projects
-- **Calculator** → simple text-based calculator
-- **Blackjack** → simplified card game
+---
+
+## 📂 Project Index
+
+| No. | Name       | Link                                                                 |
+|-----|------------|----------------------------------------------------------------------|
+| 1   | Blackjack  | [Blackjack](https://github.com/aryan-p5tel/Simple-Python-Mini-Projects/tree/main/Blackjack) |
+| 2   | Calculator | [Calculator](https://github.com/aryan-p5tel/Simple-Python-Mini-Projects/tree/main/Calculator) |
