@@ -1,4 +1,4 @@
-# Simple Python Mini Projects 🐍
+# Simple Python Mini Projects
 
 This repository contains small Python projects I’ve built to practice and improve my programming skills.
 
