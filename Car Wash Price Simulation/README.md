@@ -1,4 +1,4 @@
-# Car Wash Simulation GUI
+# Car Wash Simulation Project
 
 ## Overview
 
