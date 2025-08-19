@@ -102,8 +102,6 @@ While functional, the application could be extended with:
 <img width="742" height="777" alt="image" src="https://github.com/user-attachments/assets/205534e0-8fe9-412b-a465-34086bee12f9" />
 
 
-*(Replace `path-to-your-screenshot.png` with the actual file path of your screenshot)*
-
 ---
 
 ## Conclusion
