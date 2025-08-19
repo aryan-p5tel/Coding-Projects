@@ -71,8 +71,9 @@ By using GitHub as part of my workflow now, I’m developing habits that will he
 
 ---
 
-##  Screenshot Example  
-*(Insert a screenshot of the Car Wash Simulation GUI here)*  
+##  Car Wash Simulator - Flagship project 
+*(<img width="742" height="777" alt="Screenshot 2025-08-18 232713" src="https://github.com/user-attachments/assets/3ba9b135-6625-4b6c-ae7d-092a4c8da5ac" />
+)*  
 
 ---
 
