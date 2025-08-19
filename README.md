@@ -11,6 +11,7 @@ Hope to go into an IT related job and developing skills on:
 - VS Code
 - Postman
 - PyCharm
+- Replit
   
 ---
 
