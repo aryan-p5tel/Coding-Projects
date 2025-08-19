@@ -1,7 +1,17 @@
 # Simple Python Mini Projects
 
+## About
+
 This repository contains small Python projects I’ve built to practice and improve my programming skills.
 
+Finished GCSE Computer Science a year early and wanted to continue coding with real life tools. 
+Hope to go into an IT related job and developing skills on:
+
+- Github
+- VS Code
+- Postman
+- PyCharm
+  
 ---
 
 ## 📂 Project Index
