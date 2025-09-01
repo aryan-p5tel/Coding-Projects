@@ -2,9 +2,9 @@
 
 ## About:
  
-###  -This project was used to explore HTML without having any prior knowledge to the language
-###  -Hosted on both a browser and a local server using the extension on VS Studio Code
-###  -Learning about headers, customisation and linking
+####  -This project was used to explore HTML without having any prior knowledge to the language
+####  -Hosted on both a browser and a local server using the extension on VS Studio Code
+####  -Learning about headers, customisation and linking
 
 ---
 
