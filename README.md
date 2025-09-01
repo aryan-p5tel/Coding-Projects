@@ -26,6 +26,7 @@ Hope to go into an IT related job and developing skills on:
 | 5   | Notes App | [Notes App](https://github.com/aryan-p5tel/Simple-Python-Mini-Projects/tree/main/Notes%20App) |
 | 6   | Car Wash Simulator | [Car Wash Simulator](https://github.com/aryan-p5tel/Simple-Python-Mini-Projects/tree/main/Car%20Wash%20Price%20Simulation) |
 | 7   | Unit Convertor | [Unit Convertor](https://github.com/aryan-p5tel/Coding-Projects/tree/main/Unit%20Convertor) |
+| 8   | HTML Index | [HTML Index](https://github.com/aryan-p5tel/Coding-Projects/tree/main/HTML%20Index) |
 # Python Learning Projects  
 
 This repository is a collection of my early Python projects, created as part of my journey to build confidence with programming and explore how code can solve real-world problems. Each project here represents a step forward in my understanding of Python concepts — from simple file handling to developing interactive graphical user interfaces (GUIs).  
