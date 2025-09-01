@@ -1,8 +1,8 @@
-# Simple Python Mini Projects
+# Coding Projects
 
 ## About
 
-This repository contains small Python projects I’ve built to practice and improve my programming skills.
+This repository contains small projects I’ve built to practice and improve my programming skills.
 
 Finished GCSE Computer Science a year early and wanted to continue coding with real life tools. 
 Hope to go into an IT related job and developing skills on:
@@ -89,7 +89,7 @@ By using GitHub as part of my workflow now, I’m developing habits that will he
 ---
 
 ##  Summary  
-These projects are simple in scope but deliberate in purpose: each one builds upon the last, steadily expanding my skills in Python. The Car Wash Simulation showcases my ability to combine everything I’ve learned into a more advanced project, while the smaller apps highlight my focus on mastering fundamentals.  
+These projects are simple in scope but deliberate in purpose: each one builds upon the last, steadily expanding my skills. The Car Wash Simulation showcases my ability to combine everything I’ve learned into a more advanced project, while the smaller apps highlight my focus on mastering fundamentals.  
 
 This repository is a snapshot of my journey into software development — one that reflects enthusiasm, self-motivation, and a readiness to take on more challenging work in the future.  
 
