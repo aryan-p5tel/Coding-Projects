@@ -92,3 +92,34 @@ elif choice==3: # Temperature conversion
         print(f"{kelvin} Kelvin is equal to {fahrenheit} Fahrenheit")
     else:
         print("Invalid choice")
+elif choice==4: # Speed conversion
+    print("You have selected Speed conversion")
+    print("1. Kilometer per hour to Meter per second \n2. Meter per second to Kilometer per hour \n3. Mile per hour to Kilometer per hour \n4. Kilometer per hour to Mile per hour \n5. Mile per hour to Meter per second \n6. Meter per second to Mile per hour")
+    speed_choice=int(input("Enter your choice (1-6): "))
+    if speed_choice==1:
+        kmph=float(input("Enter speed in Kilometer per hour: "))
+        mps=kmph/3.6
+        print(f"{kmph} Kilometer per hour is equal to {mps} Meter per second")
+    elif speed_choice==2:
+        mps=float(input("Enter speed in Meter per second: "))
+        kmph=mps*3.6
+        print(f"{mps} Meter per second is equal to {kmph} Kilometer per hour")
+    elif speed_choice==3:
+        mph=float(input("Enter speed in Mile per hour: "))
+        kmph=mph*1.60934
+        print(f"{mph} Mile per hour is equal to {kmph} Kilometer per hour")
+    elif speed_choice==4:
+        kmph=float(input("Enter speed in Kilometer per hour: "))
+        mph=kmph/1.60934
+        print(f"{kmph} Kilometer per hour is equal to {mph} Mile per hour")
+    elif speed_choice==5:
+        mph=float(input("Enter speed in Mile per hour: "))
+        mps=mph*0.44704
+        print(f"{mph} Mile per hour is equal to {mps} Meter per second")
+    elif speed_choice==6:
+        mps=float(input("Enter speed in Meter per second: "))
+        mph=mps/0.44704
+        print(f"{mps} Meter per second is equal to {mph} Mile per hour")
+    else:
+        print("Invalid choice")
+   
