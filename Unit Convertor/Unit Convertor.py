@@ -62,3 +62,33 @@ elif choice==2: # Weight conversion
         print(f"{milligram} milligrams is equal to {gram} grams")
     else:
         print("Invalid choice")
+elif choice==3: # Temperature conversion
+    print("You have selected Temperature conversion")
+    print("1. Celsius to Fahrenheit \n2. Fahrenheit to Celsius \n3. Celsius to Kelvin \n4. Kelvin to Celsius \n5. Fahrenheit to Kelvin \n6. Kelvin to Fahrenheit")
+    temp_choice=int(input("Enter your choice (1-6): "))
+    if temp_choice==1:
+        celsius=float(input("Enter temperature in Celsius: "))
+        fahrenheit=(celsius*9/5)+32
+        print(f"{celsius} Celsius is equal to {fahrenheit} Fahrenheit")
+    elif temp_choice==2:
+        fahrenheit=float(input("Enter temperature in Fahrenheit: "))
+        celsius=(fahrenheit-32)*5/9
+        print(f"{fahrenheit} Fahrenheit is equal to {celsius} Celsius")
+    elif temp_choice==3:
+        celsius=float(input("Enter temperature in Celsius: "))
+        kelvin=celsius+273.15
+        print(f"{celsius} Celsius is equal to {kelvin} Kelvin")
+    elif temp_choice==4:    
+        kelvin=float(input("Enter temperature in Kelvin: "))
+        celsius=kelvin-273.15
+        print(f"{kelvin} Kelvin is equal to {celsius} Celsius")
+    elif temp_choice==5:
+        fahrenheit=float(input("Enter temperature in Fahrenheit: "))
+        kelvin=(fahrenheit-32)*5/9+273.15
+        print(f"{fahrenheit} Fahrenheit is equal to {kelvin} Kelvin")
+    elif temp_choice==6:
+        kelvin=float(input("Enter temperature in Kelvin: "))
+        fahrenheit=(kelvin-273.15)*9/5+32
+        print(f"{kelvin} Kelvin is equal to {fahrenheit} Fahrenheit")
+    else:
+        print("Invalid choice")
