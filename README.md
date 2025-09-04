@@ -12,6 +12,7 @@ Hope to go into an IT related job and developing skills on:
 - Postman
 - PyCharm
 - Replit
+- IDLE
   
 ---
 
