@@ -11,3 +11,10 @@ A simple text-based calculator that supports:
 Run the program with:
 ```bash
 python calculator.py
+```
+---
+
+## Next steps
+
+- Merging Unit Convertor project with calculator
+
