@@ -95,6 +95,7 @@ While functional, the application could be extended with:
 - **Python 3**
 - **Tkinter** (built-in GUI library)
 - Guidance from **CSNewbs YouTube tutorials**
+- Copilot
 
 ---
 - ## Screenshot
