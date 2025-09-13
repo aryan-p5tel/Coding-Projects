@@ -1,4 +1,4 @@
-# Blackjack Project 🃏
+# Blackjack Project 
 
 A simplified version of the classic **Blackjack (21)** game written in Python.  
 The goal is to reach a total of **21** without going over.
