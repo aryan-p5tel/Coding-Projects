@@ -4,7 +4,7 @@
 
 This repository contains small projects I’ve built to practice and improve my programming skills.
 
-Finished GCSE Computer Science a year early and wanted to continue coding with real life tools. 
+Finished GCSE Computer Science a year early and wanted to continue coding with real life tools whilst studying A Level Computer Science 
 Hope to go into an IT related job and developing skills on:
 
 - Github
