@@ -31,6 +31,8 @@ Hope to go into an IT related job and developing skills on:
 | 9   | Simple Blog Template | [Simple Blog Template](https://github.com/aryan-p5tel/Coding-Projects/tree/main/Simple%20Blog%20Template) |
 | 10  | Day Formatter | [Day Formatter](https://github.com/aryan-p5tel/Coding-Projects/tree/main/Day%20Formatter) |
 | 11 | Periodic Table Search | [Periodic Table Search](https://github.com/aryan-p5tel/Coding-Projects/tree/main/Periodic%20Table%20Search) |
+| 11 | Periodic Table Search | [Periodic Table Search](https://github.com/aryan-p5tel/Coding-Projects/tree/main/Periodic%20Table%20Search) |
+| 11 | Periodic Table Search | [Periodic Table Search](https://github.com/aryan-p5tel/Coding-Projects/tree/main/Periodic%20Table%20Search) |
 # Python Learning Projects  
 
 This repository is a collection of my early Python projects, created as part of my journey to build confidence with programming and explore how code can solve real-world problems. Each project here represents a step forward in my understanding of Python concepts — from simple file handling to developing interactive graphical user interfaces (GUIs).  
